@@ -44,9 +44,9 @@ Write the specification for a software module on the API service (backend applic
 
 ## Security
 
-- \*\*\*Authentication & Authorization: JWT tokens required for score update operation, only valid users can update
-- Rate Limiting: limit amount of requests a user can make to avoid abuse
-- Validate request input: since we do not care what action user take, this is not needed yet
+- **Authentication & Authorization**: JWT tokens required for score update operation, only valid users can update
+- **Rate Limiting**: limit amount of requests a user can make to avoid abuse
+- **Validate Request Input**: since we do not care what action user take, this is not needed yet
 
 ## API Endpoints
 
